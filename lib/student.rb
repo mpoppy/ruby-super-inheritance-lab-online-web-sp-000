@@ -1,5 +1,5 @@
 
-class Student
+class ChattyStudent < Student
 
   def hello
     puts "How are you doing today? I'm okay, but I'm kind of tired.
